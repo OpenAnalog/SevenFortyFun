@@ -1,4 +1,4 @@
 SevenFortyFun
 =============
 
-SevenFortyFun, a 741 transistor level kit.
+SevenFortyFun, a transistor level op amp kit.
