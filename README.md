@@ -1,7 +1,7 @@
 SevenFortyFun
 =============
 
-SevenFortyFun, a transistor level op amp kit. [ <a href="openanalog.brace.io">OPEN ANALOG</a> ]
+SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace.io">OPEN ANALOG</a> ]
 
 <img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
 
