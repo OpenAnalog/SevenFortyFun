@@ -3,6 +3,8 @@ SevenFortyFun
 
 SevenFortyFun, a transistor level op amp kit.
 
+<img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
+
 <b>To run LTSpice simulation download LTSpice (http://www.linear.com/designtools/software/) and then:</b>
 
   - View SevenFortyFun Simulation.asc
