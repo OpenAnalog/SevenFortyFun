@@ -14,6 +14,7 @@ SevenFortyFun, a transistor level op amp kit.
   - make sure encoding is ANSI
   - Open with LTSpice
   
+or just download the whole thing as a zip...
 
 <br>
 <br>
