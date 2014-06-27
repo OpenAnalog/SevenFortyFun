@@ -9,9 +9,9 @@ SevenFortyFun, a transistor level op amp kit.
 
   - View SevenFortyFun Simulation.asc
   - Click RAW
-  - copy to notepad (or your favorite text editor)
-  - save as .asc making sure 'save as type:' is selected to 'All Files'
-  - make sure encoding is ANSI
+  - Copy to notepad (or your favorite text editor)
+  - Save as .asc making sure 'save as type:' is selected to 'All Files'
+  - Make sure encoding is ANSI
   - Open with LTSpice
   
 or just download the whole thing as a zip...
