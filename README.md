@@ -20,7 +20,7 @@ or just download the whole thing as a zip...
 
 <b>TODO</b>
 
-  - Unify documents in the PDF/Make them look <i>pretty</i>
+  - Unify diagrams in the PDF/Make them look <i>pretty</i>
   
  
 <br>
