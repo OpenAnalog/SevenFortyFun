@@ -21,6 +21,8 @@ or just download the whole thing as a zip...
 <b>TODO</b>
 
   - Unify diagrams in the PDF/Make them look <i>pretty</i>
+  - Edit out "ideal diode" comment in PDF with the more factual reality of a diode connected transistor - to obtain a very     low leakage diode. For example, a 3904 type transistor will have <1pA of reverse leakage using the Base Emitter     
+    junction.
   
  
 <br>
