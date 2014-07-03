@@ -3,6 +3,8 @@ SevenFortyFun
 
 SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace.io">OPEN ANALOG</a> ]
 
+<b><a href="https://www.kickstarter.com/projects/1208645775/open-analog">KICKSTARTER CAMPAIGN!</a></b>
+
 <img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
 
 <b>What's in this repo?</b>
