@@ -5,6 +5,12 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
 
 <img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
 
+<b>What's in this repo?</b>
+  - Gerbers of SevenFortyFun Rev 1.0
+  - Schematic (SevenFortyFun schematic.png)
+  - LTSpice Simulation (SevenFortyFun Simulation.asc)
+  - Tutorial/Guide of the SevenFortyFun, an explanantion of each transistors function (SevenFortyFun.pdf)
+
 <b>To run LTSpice simulation download LTSpice (http://www.linear.com/designtools/software/) and then:</b>
 
   - View SevenFortyFun Simulation.asc
