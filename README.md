@@ -24,7 +24,16 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
   
 or just download the whole thing as a zip...
 
+<b> PINOUT </b>
 
+  - 1:Non Inverting Input
+  - 2:Inverting Input
+  - 3:Offset Null 1
+  - 4:Offset Null 2
+  - 5:Output
+  - 6:VCC
+  - 7:-VCC
+  - 8:GND
 
 <b>TODO</b>
   - Make datasheet & characterize SevenFortyFun (i.e. slew rate, GBW, etc...)
