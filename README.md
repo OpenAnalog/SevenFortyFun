@@ -27,7 +27,7 @@ or just download the whole thing as a zip...
 
 
 
-<b>   INSTRUCTIONS FOR INSTALLING COMPONENTS: </b>
+<b>   INSTRUCTIONS FOR INSTALLING COMPONENTS: </b><br>
 <b>   _______________________________________ </b>
 
 <b> TRANSISTOR FOOTPRINT </b>
