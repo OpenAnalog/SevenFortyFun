@@ -24,7 +24,11 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
   
 or just download the whole thing as a zip...
 
-<b><u> INSTRUCTIONS FOR INSTALLING COMPONENTS </u></b>
+
+
+
+<b>   INSTRUCTIONS FOR INSTALLING COMPONENTS: </b>
+<b>   _______________________________________ </b>
 
 <b> TRANSISTOR FOOTPRINT </b>
   - Collector denoted with silkscreen dot 
