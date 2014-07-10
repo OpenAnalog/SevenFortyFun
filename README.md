@@ -24,7 +24,12 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
   
 or just download the whole thing as a zip...
 
-<b> PINOUT </b>
+<b> INSTRUCTIONS FOR INSTALLING COMPONENTS </b>
+
+<b> TRANSISTOR FOOTPRINT </b>
+  - Collector denoted with silkscreen dot 
+
+<b> PINOUT OF HEADERS </b>
 
   - 1:Non Inverting Input
   - 2:Inverting Input
