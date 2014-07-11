@@ -7,6 +7,10 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
 
 <img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
 
+<b>Most importantly go read about the inventor of the 741 - David Fullagar - at the links below: </b>
+  - http://electronicdesign.com/analog/david-fullagar
+  - http://www.edn.com/electronics-news/4326905/Voices-Dave-Fullagar-analog-IC-designer-and-entrepreneur
+
 <b>What's in this repo?</b>
   - Gerbers of SevenFortyFun Rev 1.0
   - Schematic (SevenFortyFun schematic.png)
