@@ -7,6 +7,8 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
 
 <img src="https://d2isyty7gbnm74.cloudfront.net/unsafe/276x276/square-production.s3.amazonaws.com/files/15bd0d0352ecbeb635dc87a63bf17537/original.jpeg">
 
+<img src="https://acrobotic.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/a/i/ai_acr00004_iso.jpg">
+
 <b>Most importantly go read about the inventor of the 741 - David Fullagar - at the links below: </b>
   - http://electronicdesign.com/analog/david-fullagar
   - http://www.edn.com/electronics-news/4326905/Voices-Dave-Fullagar-analog-IC-designer-and-entrepreneur
@@ -35,18 +37,18 @@ or just download the whole thing as a zip...
 <b>   _______________________________________ </b>
 
 <b> TRANSISTOR FOOTPRINT </b>
-  - Collector denoted with silkscreen dot 
+  - Install as silkscreen shape suggests be careful with pnp/npn type 
 
 <b> PINOUT OF HEADERS </b>
 
-  - 1:Non Inverting Input
+  - 1:offset null
   - 2:Inverting Input
-  - 3:Offset Null 1
-  - 4:Offset Null 2
-  - 5:Output
-  - 6:VCC
-  - 7:-VCC
-  - 8:GND
+  - 3:Non-inverting Input
+  - 4:V-
+  - 5:offset null
+  - 6:Output
+  - 7:V+
+  - 8:NC
 
 <b>TODO</b>
   - Make datasheet & characterize SevenFortyFun (i.e. slew rate, GBW, etc...)
