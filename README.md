@@ -14,7 +14,7 @@ SevenFortyFun, a transistor level op amp kit. [ <a href="http://openanalog.brace
   - http://www.edn.com/electronics-news/4326905/Voices-Dave-Fullagar-analog-IC-designer-and-entrepreneur
 
 <b>What's in this repo?</b>
-  - Gerbers of SevenFortyFun Rev 1.0
+  - Gerbers of SevenFortyFun Rev 1.0 <b>UPDATED FILES SEE: https://github.com/acrobotic/OA_SevenFortyFun/tree/master/pcb-main<b>
   - Schematic (SevenFortyFun schematic.png)
   - LTSpice Simulation (SevenFortyFun Simulation.asc)
   - Tutorial/Guide of the SevenFortyFun, an explanantion of each transistors function (SevenFortyFun.pdf)
